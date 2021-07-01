@@ -1,0 +1,8 @@
+With this React.js app you can post thoughts to a feed with the time and date, and then delete them. A rough twitter clone.
+
+Concepts Explored:
+- Deleting elements from state
+- Capturing time & date with js
+- Intro to react forms
+- Using refs with React
+- Mapping elements

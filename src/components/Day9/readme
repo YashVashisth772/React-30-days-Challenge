@@ -1,0 +1,7 @@
+A simple React.js app as a self-service cafe ordering system, kinda like you find at McDonalds etc.
+
+Concepts Explored:
+- Handling more information and 'stuff' in general
+- Splitting data into sections with .map() and keys
+- Storing more data in state
+- Simple equations in a React app

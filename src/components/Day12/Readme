@@ -1,0 +1,5 @@
+Today i've connected to an API within the lifecycle method componentDidMount, to create a random person generator with https://randomuser.me/​
+
+Concepts Explored:
+- Fetch with React
+- Loading data with componentDidMount

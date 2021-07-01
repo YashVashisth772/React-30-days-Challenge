@@ -1,0 +1,2 @@
+Make a Input box, and display the data entered by converting it to uppercase.
+The data flow should be through props
